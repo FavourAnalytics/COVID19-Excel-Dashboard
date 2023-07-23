@@ -1,0 +1,99 @@
+Age Bracket,Gender 2,Gender,Marital Status,Job Status ,Ethnicity,Residential location,Vaccine Dose,Vaccine Name,Infected(Covid 19),Vaccine Side Effect,Pain,Swelling,Bone and muscle pain,Flu like symptoms,Gastro-intestinal  side effects [Nausea],Gastro-intestinal  side effects [Diarrhea],Gastro-intestinal  side effects [Loss of appetite],Psychological side effect [Sleep disturbance],Psychological side effect [Anxiety and stress],Cardiac side effect [Shortness of breath],Dizziness
+Middle Age,Female,Female,Married,Employed,Igbo,Urban,2,Moderna,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+Middle Age,Male,Male,Divorce,Employed,Igbo,Urban,2,Pfizer,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+Middle Age,Female,Female,Married,Employed,Igbo,Urban,2,Pfizer,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Young Adult,Female,Female,Single,Others,Yoruba,Urban,2,Pfizer,No,No,No,No,No,No,No,No,No,No,No,No,No
+Young Adult,Female,Female,Single,Employed,Others,Urban,2,Pfizer,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Young Adult,Male,Male,Single,Employed,Yoruba,Urban,2,AstraZeneca,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No
+Middle Age,Female,Female,Married,Employed,Igbo,Urban,2,AstraZeneca,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes
+Middle Age,Male,Male,Married,Employed,Yoruba,Urban,1,Johnson & Johnson,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No
+Young Adult,Female,Female,Single,Unemployed,Yoruba,Urban,1,Johnson & Johnson,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+Middle Age,Male,Male,Married,Employed,Yoruba,Urban,2,Pfizer,No,No,No,No,No,No,No,No,No,No,No,No,No
+Middle Age,Male,Male,Single,Unemployed,Yoruba,Urban,2,Pfizer,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes
+Middle Age,Male,Male,Married,Employed,Yoruba,Urban,2,AstraZeneca,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes
+Middle Age,Male,Male,Married,Employed,Others,Urban,2,AstraZeneca,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No
+Middle Age,Female,Female,Single,Employed,Others,Urban,2,Pfizer,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+Middle Age,Male,Male,Married,Employed,Yoruba,Urban,2,AstraZeneca,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No
+Middle Age,Male,Male,Married,Employed,Igbo,Urban,2,AstraZeneca,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes
+Old,Male,Male,Married,Employed,Yoruba,Urban,2,AstraZeneca,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+Middle Age,Female,Female,Married,Employed,Igbo,Urban,2,Pfizer,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes
+Middle Age,Male,Male,Married,Employed,Yoruba,Urban,2,Pfizer,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+Young Adult,Female,Female,Married,Employed,Yoruba,Urban,2,Pfizer,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No
+Young Adult,Male,Male,Single,Unemployed,Others,Rural,2,Moderna,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Middle Age,Female,Female,Single,Employed,Yoruba,Urban,2,AstraZeneca,No,No,No,No,Yes,No,No,No,No,No,No,No,No
+Young Adult,Female,Female,Married,Employed,Igbo,Urban,3,Pfizer,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No
+Young Adult,Male,Male,Married,Employed,Igbo,Urban,2,Pfizer,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes
+Middle Age,Female,Female,Single,Employed,Igbo,Urban,3,Pfizer,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No
+Young Adult,Female,Female,Married,Employed,Igbo,Urban,2,Pfizer,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No
+Young Adult,Male,Male,Single,Employed,Igbo,Urban,2,AstraZeneca,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes
+Young Adult,Male,Male,Single,Employed,Igbo,Urban,2,AstraZeneca,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No
+Young Adult,Male,Male,Single,Employed,Igbo,Urban,2,Pfizer,No,No,No,No,No,No,No,No,No,No,No,No,No
+Young Adult,Male,Male,Married,Employed,Igbo,Urban,2,AstraZeneca,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Middle Age,Male,Male,Single,Employed,Igbo,Urban,2,Moderna,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes
+Middle Age,Female,Female,Married,Employed,Igbo,Urban,2,Pfizer,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No
+Middle Age,Female,Female,Married,Employed,Igbo,Rural,2,AstraZeneca,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No
+Middle Age,Female,Female,Married,Employed,Igbo,Urban,2,AstraZeneca,No,No,No,No,No,No,No,No,No,No,No,No,No
+Young Adult,Female,Female,Married,Employed,Igbo,Urban,2,AstraZeneca,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No
+Middle Age,Female,Female,Married,Employed,Igbo,Urban,2,Pfizer,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes
+Middle Age,Male,Male,Married,Employed,Igbo,Urban,2,AstraZeneca,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No
+Middle Age,Female,Female,Married,Employed,Igbo,Rural,2,AstraZeneca,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No
+Young Adult,Female,Female,Single,Employed,Igbo,Urban,2,AstraZeneca,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Middle Age,Female,Female,Married,Employed,Igbo,Urban,2,Pfizer,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No
+Young Adult,Female,Female,Single,Employed,Igbo,Urban,2,Pfizer,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No
+Middle Age,Male,Male,Married,Others,Igbo,Urban,2,Moderna,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No
+Young Adult,Female,Female,Single,Unemployed,Igbo,Urban,2,AstraZeneca,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No
+Young Adult,Female,Female,Single,Employed,Igbo,Urban,2,Moderna,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No
+Young Adult,Male,Male,Single,Unemployed,Igbo,Rural,2,Pfizer,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+Young Adult,Male,Male,Single,Employed,Igbo,Urban,2,Moderna,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No
+Middle Age,Male,Male,Single,Employed,Others,Urban,2,AstraZeneca,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No
+Middle Age,Female,Female,Married,Employed,Igbo,Urban,2,Pfizer,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes
+Middle Age,Female,Female,Single,Unemployed,Igbo,Urban,1,Johnson & Johnson,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Middle Age,Male,Male,Married,Employed,Igbo,Urban,2,Moderna,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+Young Adult,Female,Female,Single,Employed,Yoruba,Rural,1,Johnson & Johnson,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+Young Adult,Male,Male,Single,Employed,Yoruba,Urban,1,Johnson & Johnson,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No
+Old,Male,Male,Married,Employed,Others,Urban,2,AstraZeneca,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+Middle Age,Female,Female,Single,Employed,Igbo,Urban,2,AstraZeneca,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No
+Middle Age,Male,Male,Married,Employed,Igbo,Urban,2,Pfizer,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes
+Young Adult,Female,Female,Single,Employed,Yoruba,Urban,1,Johnson & Johnson,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No
+Young Adult,Female,Female,Single,Unemployed,Yoruba,Urban,1,Johnson & Johnson,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Young Adult,Male,Male,Single,Unemployed,Yoruba,Urban,1,Johnson & Johnson,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes
+Young Adult,Female,Female,Single,Unemployed,Yoruba,Urban,2,AstraZeneca,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No
+Young Adult,Male,Male,Single,Unemployed,Yoruba,Urban,2,Pfizer,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No
+Young Adult,Female,Female,Single,Unemployed,Yoruba,Urban,2,Pfizer,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No
+Young Adult,Male,Male,Single,Employed,Yoruba,Rural,2,Moderna,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No
+Young Adult,Male,Male,Single,Others,Yoruba,Urban,2,AstraZeneca,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes
+Young Adult,Female,Female,Single,Employed,Yoruba,Urban,2,Pfizer,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+Young Adult,Male,Male,Single,Unemployed,Yoruba,Urban,2,AstraZeneca,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No
+Young Adult,Female,Female,Single,Unemployed,Yoruba,Urban,2,AstraZeneca,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes
+Young Adult,Female,Female,Single,Others,Yoruba,Urban,2,AstraZeneca,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,No
+Young Adult,Male,Male,Single,Others,Yoruba,Urban,2,Pfizer,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
+Young Adult,Female,Female,Single,Unemployed,Yoruba,Rural,1,Johnson & Johnson,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No
+Middle Age,Female,Female,Married,Employed,Igbo,Urban,2,AstraZeneca,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No
+Young Adult,Female,Female,Single,Unemployed,Yoruba,Urban,2,Pfizer,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes
+Young Adult,Female,Female,Single,Employed,Igbo,Urban,2,AstraZeneca,No,No,No,No,No,No,No,No,No,No,No,No,No
+Middle Age,Male,Male,Married,Employed,Igbo,Urban,2,AstraZeneca,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes
+Middle Age,Female,Female,Married,Employed,Igbo,Urban,2,Moderna,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Middle Age,Male,Male,Married,Employed,Igbo,Urban,2,AstraZeneca,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No
+Young Adult,Male,Male,Single,Employed,Igbo,Urban,2,AstraZeneca,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No
+Young Adult,Male,Male,Single,Unemployed,Igbo,Urban,2,AstraZeneca,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes
+Old,Male,Male,Divorce,Employed,Igbo,Urban,2,Moderna,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes
+Young Adult,Female,Female,Single,Employed,Igbo,Rural,2,Pfizer,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No
+Young Adult,Male,Male,Single,Employed,Yoruba,Rural,2,AstraZeneca,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+Middle Age,Female,Female,Single,Employed,Igbo,Urban,2,Pfizer,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes
+Young Adult,Male,Male,Married,Employed,Igbo,Rural,2,Moderna,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+Middle Age,Female,Female,Married,Employed,Others,Urban,2,AstraZeneca,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Young Adult,Female,Female,Married,Employed,Others,Rural,2,AstraZeneca,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No
+Young Adult,Male,Male,Single,Unemployed,Igbo,Urban,2,Pfizer,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No
+Middle Age,Male,Male,Married,Employed,Yoruba,Rural,2,Pfizer,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No
+Young Adult,Female,Female,Married,Employed,Yoruba,Rural,2,Pfizer,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No
+Middle Age,Male,Male,Single,Employed,Others,Rural,2,Moderna,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No
+Middle Age,Female,Female,Single,Employed,Yoruba,Rural,2,Pfizer,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+Middle Age,Male,Male,Single,Employed,Hausa,Rural,2,Pfizer,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No
+Young Adult,Female,Female,Married,Unemployed,Yoruba,Urban,2,Moderna,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No
+Middle Age,Male,Male,Married,Employed,Others,Rural,2,Pfizer,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+Middle Age,Female,Female,Married,Employed,Others,Rural,2,AstraZeneca,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No
+Young Adult,Male,Male,Single,Employed,Others,Rural,2,Pfizer,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+Middle Age,Male,Male,Single,Employed,Igbo,Rural,2,Pfizer,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No
+Young Adult,Female,Female,Single,Employed,Others,Urban,2,AstraZeneca,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+Young Adult,Female,Female,Single,Employed,Others,Urban,2,Pfizer,No,No,No,No,No,No,No,No,No,No,No,No,No
+Young Adult,Female,Female,Single,Employed,Others,Urban,2,Pfizer,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No
